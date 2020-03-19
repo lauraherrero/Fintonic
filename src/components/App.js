@@ -5,6 +5,7 @@ import Main from './Main';
 import QuestionList from './QuestionList';
 import { getDataFromApi } from '../services/api';
 import Pages from './Pages';
+import Form from './Form';
 
 class App extends React.Component {
   constructor(props) {
@@ -34,6 +35,7 @@ class App extends React.Component {
                 questionList={this.state.questions}
               />
               <Pages/>
+              <Form />
           </div>
       </div>
     );
