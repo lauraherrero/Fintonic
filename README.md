@@ -6,11 +6,11 @@ La página se compone de un Header y un cuerpo principal. Dentro de este, se enc
 
 
 ## Technologies:
-React
-Javascript
-Sass
+React <br />
+Javascript <br />
+Sass 
 
 ## To see the project:
-1.- Clone the repository
-2.- Introduce 'npm install' in the terminal
+1.- Clone the repository <br />
+2.- Introduce 'npm install' in the terminal <br />
 3.- Introduce 'npm start' in the terminal
